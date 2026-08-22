@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test3Application {
 
+       int m=25;
 	int z=35;
       int x=100;
 int y=200;
